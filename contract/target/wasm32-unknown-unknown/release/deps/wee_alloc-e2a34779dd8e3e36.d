@@ -1,0 +1,11 @@
+/mnt/c/Users/mildhat/near/body-monitor/contract/target/wasm32-unknown-unknown/release/deps/wee_alloc-e2a34779dd8e3e36.rmeta: /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_wasm32.rs
+
+/mnt/c/Users/mildhat/near/body-monitor/contract/target/wasm32-unknown-unknown/release/deps/libwee_alloc-e2a34779dd8e3e36.rlib: /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_wasm32.rs
+
+/mnt/c/Users/mildhat/near/body-monitor/contract/target/wasm32-unknown-unknown/release/deps/wee_alloc-e2a34779dd8e3e36.d: /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_wasm32.rs
+
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_wasm32.rs:

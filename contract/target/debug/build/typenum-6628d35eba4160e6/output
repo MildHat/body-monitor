@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/c/Users/mildhat/near/body-monitor/contract/target/debug/build/typenum-6628d35eba4160e6/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/c/Users/mildhat/near/body-monitor/contract/target/debug/build/typenum-6628d35eba4160e6/out/op.rs

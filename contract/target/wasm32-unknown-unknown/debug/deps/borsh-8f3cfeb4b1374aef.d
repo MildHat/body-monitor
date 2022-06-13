@@ -1,0 +1,12 @@
+/mnt/c/Users/mildhat/near/body-monitor/contract/target/wasm32-unknown-unknown/debug/deps/borsh-8f3cfeb4b1374aef.rmeta: /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs
+
+/mnt/c/Users/mildhat/near/body-monitor/contract/target/wasm32-unknown-unknown/debug/deps/libborsh-8f3cfeb4b1374aef.rlib: /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs
+
+/mnt/c/Users/mildhat/near/body-monitor/contract/target/wasm32-unknown-unknown/debug/deps/borsh-8f3cfeb4b1374aef.d: /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs
+
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/lib.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/mod.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/de/hint.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/schema_helpers.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.2/src/ser/mod.rs:

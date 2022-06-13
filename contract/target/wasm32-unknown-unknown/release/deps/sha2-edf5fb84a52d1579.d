@@ -1,0 +1,12 @@
+/mnt/c/Users/mildhat/near/body-monitor/contract/target/wasm32-unknown-unknown/release/deps/sha2-edf5fb84a52d1579.rmeta: /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs
+
+/mnt/c/Users/mildhat/near/body-monitor/contract/target/wasm32-unknown-unknown/release/deps/libsha2-edf5fb84a52d1579.rlib: /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs
+
+/mnt/c/Users/mildhat/near/body-monitor/contract/target/wasm32-unknown-unknown/release/deps/sha2-edf5fb84a52d1579.d: /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs /home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs
+
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs:
+/home/mildhat/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs:
